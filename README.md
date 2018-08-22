@@ -1,2 +1,6 @@
 # hello-world
-This is a place where i will store ideas, resources, or even share and discuss things with everybody.
+Hi, Cyborgs!
+
+Shresth here, I like cloud computing and experimenting with new technologies.
+My current skill set has been updated with (React JS, Redux, AWS).
+
